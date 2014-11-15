@@ -1,5 +1,6 @@
 /includes/scss/.sass-cache/*
-*.sass-cache*
+**/.sass-cache
+**/.sass-cache/*
 .idea/*
 
 # OS generated files #
